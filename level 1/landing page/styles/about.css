@@ -1,0 +1,24 @@
+/*about section  */
+
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+    width: 100%;
+
+}
+
+.about-1 {
+    width: 50%;
+    height: 500px;
+    background: wheat;
+}
+
+
+.about-2 {
+    width: 50%;
+    height: 500px;
+    background: blanchedalmond;
+}
